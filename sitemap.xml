@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Página Principal -->
+  <url>
+    <loc>https://kokasouls.com.br/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Elden Ring -->
+  <url>
+    <loc>https://kokasouls.com.br/shop/elden_ring/elden-ring.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Dark Souls 1 -->
+  <url>
+    <loc>https://kokasouls.com.br/shop/darksouls_1/dark-souls-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Dark Souls 2 -->
+  <url>
+    <loc>https://kokasouls.com.br/shop/darksouls_2/dark-souls-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Dark Souls 3 -->
+  <url>
+    <loc>https://kokasouls.com.br/shop/darksouls_3/dark-souls-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Demon's Souls -->
+  <url>
+    <loc>https://kokasouls.com.br/shop/demon_souls/demon-souls.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Lords of the Fallen -->
+  <url>
+    <loc>https://kokasouls.com.br/shop/lords_of_the_fallen/lords-of-the-fallen.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
