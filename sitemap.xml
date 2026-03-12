@@ -10,42 +10,42 @@
 
   <!-- Elden Ring -->
   <url>
-    <loc>https://kokasouls.com.br/shop/elden_ring/elden-ring.html</loc>
+    <loc>https://kokasouls.com.br/elden-ring</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Dark Souls 1 -->
+  <!-- Dark Souls Remastered -->
   <url>
-    <loc>https://kokasouls.com.br/shop/darksouls_1/dark-souls-1.html</loc>
+    <loc>https://kokasouls.com.br/dark-souls-1</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Dark Souls 2 -->
+  <!-- Dark Souls II -->
   <url>
-    <loc>https://kokasouls.com.br/shop/darksouls_2/dark-souls-2.html</loc>
+    <loc>https://kokasouls.com.br/dark-souls-2</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Dark Souls 3 -->
+  <!-- Dark Souls III -->
   <url>
-    <loc>https://kokasouls.com.br/shop/darksouls_3/dark-souls-3.html</loc>
+    <loc>https://kokasouls.com.br/dark-souls-3</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Demon's Souls -->
   <url>
-    <loc>https://kokasouls.com.br/shop/demon_souls/demon-souls.html</loc>
+    <loc>https://kokasouls.com.br/demon-souls</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Lords of the Fallen -->
   <url>
-    <loc>https://kokasouls.com.br/shop/lords_of_the_fallen/lords-of-the-fallen.html</loc>
+    <loc>https://kokasouls.com.br/lords-of-the-fallen</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
