@@ -1,7 +1,4 @@
 {
-  "redirects": [
-    { "source": "/", "destination": "home.html" }
-  ],
   "rewrites": [
     { "source": "/", "destination": "/home.html" }
   ]
