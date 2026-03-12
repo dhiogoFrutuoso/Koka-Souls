@@ -1,5 +1,11 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/home.html" }
+    { "source": "/", "destination": "/home.html" },
+    { "source": "/elden-ring", "destination": "/shop/elden_ring/elden-ring.html" },
+    { "source": "/dark-souls-1", "destination": "/shop/darksouls_1/dark-souls-1.html" },
+    { "source": "/dark-souls-2", "destination": "/shop/darksouls_2/dark-souls-2.html" },
+    { "source": "/dark-souls-3", "destination": "/shop/darksouls_3/dark-souls-3.html" },
+    { "source": "/demon-souls", "destination": "/shop/demon_souls/demon-souls.html" },
+    { "source": "/lords-of-the-fallen", "destination": "/shop/lords_of_the_fallen/lords-of-the-fallen.html" }
   ]
 }
